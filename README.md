@@ -65,3 +65,8 @@ To run the tests in this repository, please see our [testing tips and tricks](TE
 The source files in this repository are made available under the [Apache License Version 2.0](./LICENSE).
 
 Camunda Platform 7 uses and includes third-party dependencies published under various licenses. By downloading and using Camunda Platform 7 artifacts, you agree to their terms and conditions. Refer to https://docs.camunda.org/manual/latest/introduction/third-party-libraries/ for an overview of third-party libraries and particularly important third-party licenses we want to make you aware of.
+
+## start leran
+
+
+
